@@ -37,6 +37,11 @@ Going further, we could consider creating an application that automatically call
 We can see two main challenges with this project at this stage: 
 1. In order to provide correctly formatted data to the algorithm, we would need to automatically clean the data and account for things like outliers or data collection errors due to material faults or similar.  Initially, this project used data from 2021, but we can see that if we plug in data from 2023, the data cleaning functions break at some point.  It would be challenging to account for all possible data collection errors, therefore we foresee regular and considerable maintenance costs.
 
-2. As we have concluded, the predictions could benefit from more data. However, it seems that the data hosted by OpenData Paris doesn't persist after ~12-18 months.  A solution could be to initialise a database containing the results of the machine learning algorithm, which is then alimented over time. 
+2. As we have concluded, the predictions could benefit from more data. However, it seems that the data hosted by OpenData Paris doesn't persist after ~12-18 months.  A solution could be to initialise a database containing the results of the machine learning algorithm, which is then alimented over time.
+
+
+Further contributions are welcome. Contact the author here: [WMBT Web Services][2] and [Linkedin][3]
 
 [1]: https://opendata.paris.fr/explore/dataset/comptage-velo-donnees-compteurs/information/?disjunctive.id_compteur&disjunctive.nom_compteur&disjunctive.id&disjunctive.name
+[2]: https://wmbt.services/fr/contact
+[3]: https://www.linkedin.com/in/clarkm02/
