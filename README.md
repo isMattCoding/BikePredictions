@@ -19,7 +19,8 @@ Using past traffic data, along with external factors, such as past weather data 
 
 The data was made available by OpenData Paris, found here: [Paris | Data][1]
 
-**Conclusion 
+**Conclusion**
+==
 
 While the algorithm can more or less accurately predict the peaks of bike traffic in Paris, it would benefit from more data to be able to analyse the seasonality year-to-year.
 
